@@ -11,6 +11,7 @@
     <script src="resource/WebGLBase/webgl-debug.js"></script>
     <script src="resource/WebGLBase/cuon-utils.js"></script>
     <script src="resource/WebGL3D.js"></script>
+    <script src="resource/WebGL3D.js"></script>
 <body onload="main()">
     <canvas id="webgl" width="1000" height="1000">
     Please use a browser that supports "canvas"
